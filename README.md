@@ -44,13 +44,13 @@ También asignamos un mensaje por si se incumpla con la directiva y ya por últi
 ### Paso 8:
 Creamos una nueva Máquina Virtual
 
-![Imagen 8](https://github.com/aldodanielle/Prac3_Microsoft_Defender_for_Cloud/blob/main/Imgenes/P14.png)
+![Imagen 8](https://github.com/aldodanielle/Prac3_Microsoft_Defender_for_Cloud/blob/main/Imgenes/P16.png)
 ------------------------------------------------------------------------------------------------------
 ### Paso 9:
 Cremo otro recurso llamado Microsoft Sentinel y dentro de ahí elegimos el área de trabajo, si no tenemos un área de trabajo creamos una nueva área de trabajo de Log Analytics solo agregando los datos que nos pida, una vez creada la agregamos y entramos nos sale una ventana como la de la segunda imagen.
 
 ![Imagen 9](https://github.com/aldodanielle/Prac3_Microsoft_Defender_for_Cloud/blob/main/Imgenes/P15.png)
-![Imagen 9.1](https://github.com/aldodanielle/Prac3_Microsoft_Defender_for_Cloud/blob/main/Imgenes/P16.png)
+![Imagen 9.1](https://github.com/aldodanielle/Prac3_Microsoft_Defender_for_Cloud/blob/main/Imgenes/P14.png)
 ------------------------------------------------------------------------------------------------------
 ### Paso 10:
 Dentro de aquí podemos conectar nuestros orígenes de datos Maquina Virtuales, AWS, GCP, entre otros. Para este ejemplo no conectamos a la actividad de Azure y de aquí nos vamos a abrir la página del conector y nos abre una ventana como se muestra en la imagen dos en donde solo tenemos que los pasos que nos dicen la misma página para conectarnos 
